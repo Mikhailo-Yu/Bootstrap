@@ -2,7 +2,6 @@
   --bs-accordion-active-color: white !important;
   --bs-accordion-active-bg: blue !important;
 }
-
 .accordion-item {
     background-color: yellow !important;
  }
@@ -12,9 +11,6 @@
  .nav-link {
   color: var(--bs-white) !important;
   font-size: 24px !important;
-}
-.mb-6 {
-    margin-bottom: 5rem!important;
 }
 .d-flex {
   gap: 20px !important;
